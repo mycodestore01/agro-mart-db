@@ -1,9 +1,8 @@
 {
-  users: [
-    
+  "users": [
     {
-      name: 'Tushar',
-      email: 'tushar.auti@outlook.com'
+      "name": 'Tushar',
+      "email": 'tushar.auti@outlook.com'
     }
   ]
 }
